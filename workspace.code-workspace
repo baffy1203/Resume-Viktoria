@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\Basic"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Resume"
+	}
+}
